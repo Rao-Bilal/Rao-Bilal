@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Bilal 👋
 
-<!--
-**Rao-Bilal/Rao-Bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer and Backend Engineer specializing in building scalable enterprise architectures and integrating AI. I actively take on freelance projects, helping clients turn complex requirements into robust applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Backend:** Java, Spring Boot, Node.js, Express
+* **Frontend:** React, Flutter
+* **Databases:** MySQL, MongoDB
+* **AI & Architecture:** Retrieval-Augmented Generation (RAG), AI Agents, Vector Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Working On
+* Building **Unimate**, an AI-powered academic companion app using Flutter and Firebase.
+* Developing **Smart MasjidConnect**, a digital community management ecosystem using React and MongoDB.
+* Exploring advanced AI integrations and RAG pipelines. 
+
+### 📫 Let's Connect
+* 💼 Open for freelance opportunities on [Upwork/Fiverr Link]
+* 🌐 Check out my portfolio: [Link to your Netlify site]
+* 📧 Reach me at: [Your Email]
